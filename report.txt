@@ -1,0 +1,17 @@
+Info: Processing symbol 'Charging1:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'D4:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'Full1:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'J1(5V_IN)1:Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R1:Resistor_SMD:R_1812_4532Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_1812_4532Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_1812_4532Metric'.
+Changed J1(5V_IN)1 footprint from 'Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical' to 'Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal'.
+Changed J2 footprint from 'Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical' to 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Warning: No net found for symbol J1(5V_IN)1 pin MP.
+Warning: No net found for symbol J1(5V_IN)1 pin MP.
+
+
+Info: Total warnings: 0, errors: 0.
